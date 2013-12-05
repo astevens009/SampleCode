@@ -1,0 +1,7 @@
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\bin\Debug\FindSquareRoot_WF.exe
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\bin\Debug\FindSquareRoot_WF.pdb
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\obj\x86\Debug\FindSquareRoot_WF.SquareRootMainForm.resources
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\obj\x86\Debug\FindSquareRoot_WF.Properties.Resources.resources
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\obj\x86\Debug\FindSquareRoot_WF.csproj.GenerateResource.Cache
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\obj\x86\Debug\FindSquareRoot_WF.exe
+F:\Practice\Review2013\TalentBuddy Projects\FindSquareRoot_WF\FindSquareRoot_WF\obj\x86\Debug\FindSquareRoot_WF.pdb
